@@ -1,0 +1,22 @@
+.bg {
+    background-color:#F2F2F2;
+}
+.container{
+    width: 320px;
+    background-color: white;
+    padding: 16px;
+    border-radius: 20px;
+    margin: auto;
+
+}
+.img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #7D889E;
+}
